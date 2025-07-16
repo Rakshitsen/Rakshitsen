@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Rakshit Sen!
 
-<!--
-**Rakshitsen/Rakshitsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm passionate about building scalable Cloud & DevOps solutions.  
+🔧 Tools I work with: **AWS, Terraform, Docker, Jenkins, GitHub Actions, Kubernetes**  
+📚 Always learning and building real-world projects.  
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
+- Completing OCI & Azure Architect Certifications
+- Hands-on CI/CD Projects
+- Deep diving into Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **[AWS Capstone Project](https://github.com/Rakshitsen/AWS-Capstone-Project)**: Built a full-stack AWS infrastructure with high availability and automation.
+- **[Tree-as-a-Service](link_here)**: Plant a tree with a unique ID, powered by CI/CD and EKS.
+
+📫 Reach me: rakshitsen1@gmail.com | [LinkedIn](https://linkedin.com/in/rakshit-sen-0171501b1/)
