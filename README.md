@@ -5,7 +5,7 @@
 Always learning and building real-world projects.  
 
 ## Current Focus
-- Completing AWS & Azure Architect Certifications
+- Completing AWS & GCP Architect Certifications
 - Hands-on CI/CD Projects
 - Deep diving into Kubernetes
 
